@@ -19,7 +19,7 @@ class Node{
 
 };
 
-    void CreateAccount(Node* &head,Node* &tail){
+     void CreateAccount(Node* &head,Node* &tail){
         string name;
         int acc,pass,bal;
         cout<<"Enter Name : ";
@@ -94,3 +94,4 @@ int main() {
     
     return 0;
 }
+//timepass
